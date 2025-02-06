@@ -1,2 +1,5 @@
 # git-training
-test1
+
+dict={
+      "student":"name",
+       
